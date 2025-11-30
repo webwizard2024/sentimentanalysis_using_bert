@@ -1,0 +1,6 @@
+streamlit==1.51.0
+torch==2.9.1
+transformers==4.57.3
+numpy
+pandas
+plotly
